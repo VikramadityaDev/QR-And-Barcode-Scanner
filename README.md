@@ -1,2 +1,2 @@
 # QR-And-Barcode-Scanner
-Flutter QR Scanner and Barcode Scanner app
+A Simple QR Scanner and Barcode Scanner app in flutter webview !
