@@ -13,7 +13,7 @@ class _QRWebviewState extends State<QRWebview> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body:WebView(
+      body:WebView(                   //Webview Of scanned QR with in the app ! is'nt cool ? 
         initialUrl: url,
         javascriptMode: JavascriptMode.unrestricted,
       ) ,
